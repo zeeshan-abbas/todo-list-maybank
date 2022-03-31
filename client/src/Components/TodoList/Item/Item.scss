@@ -1,0 +1,9 @@
+.item {
+  cursor: pointer;
+  .completed {
+    text-decoration: line-through;
+  }
+  .icon {
+    margin: 6px;
+  }
+}
